@@ -1,4 +1,4 @@
-import io.restassured.RestAssured;
+package org.thetestingacademy;
 
 public class Test001 {
     public static void main(String[] args) {
